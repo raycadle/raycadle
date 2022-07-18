@@ -1,5 +1,4 @@
-- 👋 Hello there.
-- 📧 Reach me here, or don't—it's up to you.
+- 👋 Hey!
 
 <!---
 N3WK1D/N3WK1D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
