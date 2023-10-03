@@ -1,4 +1,5 @@
-![banner](https://github.com/N3WK1D/N3WK1D/cyberpunk-pixel-city-neon-banner.gif)
+# N3WK1D
+![banner](./cyberpunk-pixel-city-neon-banner.gif)
 ## 🪪 About Me
 ### 💫 Interests...
 - 🖥️📱 Computers & Technology
@@ -14,7 +15,8 @@
 - 🏡☁️ Self-Hosting
 
 ### 🛠️ Working on...
-
+- Some convenience scripts
+- A container image or two
 
 ## 👥 Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/n3wk1d) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://n3wk1d.github.io)
