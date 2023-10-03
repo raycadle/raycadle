@@ -1,6 +1,4 @@
 ## 🪪 About Me
-A social introvert with an unorthodox mind—always willing to learn and experience new things.
-
 ### 💫 Interests...
 - 🖥️📱 Computers & Technology
 - 🏎️📐 Motorsports & Engineering
