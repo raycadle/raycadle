@@ -34,7 +34,7 @@ I'm a perpetual student who's always willing to learn and experience new things.
 ![](https://github-readme-stats.vercel.app/api?username=N3WK1D&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=N3WK1D&theme=tokyo-night)
 
-![Metrics](./assets/metrics.classic.svg)
+![Metrics](./assets/github-metrics.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
