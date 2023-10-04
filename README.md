@@ -35,7 +35,7 @@ I'm a perpetual student who's always willing to learn and experience new things.
 ![](https://metrics.lecoq.io/N3WK1D)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=N3WK1D&theme=tokyo-night)
 
-![Metrics](./assets/github-metrics.svg)
+![Metrics](./assets/metrics.classic.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
