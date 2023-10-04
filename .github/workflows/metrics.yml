@@ -19,6 +19,7 @@ jobs:
           user: N3WK1D
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: America/Belize
           plugin_lines: yes
           plugin_habits: yes
