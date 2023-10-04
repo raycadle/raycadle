@@ -1,4 +1,4 @@
-![banner](./cyberpunk-pixel-city-neon-banner.gif)
+![banner](./assets/cyberpunk-pixel-city-neon-banner.gif)
 # 👋 Hey! I'm N3WK1D
 ## 🪪 About Me
 I'm a perpetual student who's always willing to learn and experience new things.
