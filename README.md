@@ -23,7 +23,7 @@ I'm a perpetual student who's always willing to learn and experience new things.
 - 🚗🔧 Automotive Engineering
 
 ## 👥 Reach Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/n3wk1d) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://n3wk1d.github.io)
+[<img alt='dev' height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg'>](https://dev.to/n3wk1d) [<img alt='website' height='40' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg'>](https://n3wk1d.github.io)
 
 # 💻 Tech Stack
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
