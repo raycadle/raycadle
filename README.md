@@ -29,11 +29,6 @@ I'm a perpetual student who's always willing to learn and experience new things.
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-profile-trophy.vercel.app/?username=N3WK1D&theme=flat&no-frame=true&no-bg=true&margin-w=4)
-![](https://github-readme-streak-stats.herokuapp.com/?user=N3WK1D&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=N3WK1D&theme=transparent&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
-![](https://github-readme-activity-graph.vercel.app/graph?username=N3WK1D&theme=github-compact)
-
 ![Metrics](./assets/github-metrics.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
