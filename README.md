@@ -32,7 +32,6 @@ I'm a perpetual student who's always willing to learn and experience new things.
 ![](https://github-profile-trophy.vercel.app/?username=N3WK1D&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=N3WK1D&theme=tokyonight&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=N3WK1D&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=N3WK1D&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
-![](https://metrics.lecoq.io/N3WK1D)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=N3WK1D&theme=tokyo-night)
 
 ![Metrics](./assets/metrics.classic.svg)
