@@ -1,32 +1,28 @@
 ![banner](./assets/cyberpunk-pixel-city-neon-banner.gif)
-# 👋 Hey! I'm N3WK1D
-## 🪪 About Me
+# 👋 Yo! I'm N3WK1D!
 I'm a perpetual student who's always willing to learn and experience new things.
 
-### 💫 Interests
+## 💫 Interests
 - 🖥️📱 Computers & Technology
 - 🏎️📐 Motorsports & Engineering
 - ⌨️🖱️ Video Games & Simulations
 
-## ⏳ Currently
-### 🛠️ Building...
-- Some convenience scripts
-- A container image or two
+## ⏳ Currently...
+### 🛠️ Building
+- ⏲️📝 Convenient Scripts
+- 🐧🫙 Container Images
 
-### 🎯 Practicing...
-- ⚙️📝 Automation
+### 🎯 Practicing
+- ⚙️🤖 Automation
 - 🏡☁️ Self-Hosting
 
-### 🎓 Learning...
-- 🐍👨‍💻 Python Programming
+### 🎓 Learning
 - 🐧💉 Linux System Administration
 - 🚗🔧 Automotive Engineering
 
-## 👥 Reach Me
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/n3wk1d) [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://n3wk1d.github.io)
-
 # 💻 Tech Stack
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gn)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 
 # 📊 GitHub Stats
 ![Metrics](./assets/github-metrics.svg)
