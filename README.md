@@ -1,28 +1,35 @@
 ![banner](./assets/cyberpunk-pixel-city-neon-banner.gif)
 # 👋 Yo! I'm Ray!
-I'm a perpetual student who's always willing to learn and experience new things.
+I'm a perpetual student who's always willing to learn something new and have new experiences.
+You can usually find me infront of a computer or behind a steering wheel—sometimes both when I'm sim-racing.
 
 ## 💫 Interests
 - 🖥️📱 Computers & Technology
-- 🏎️📐 Motorsports & Engineering
+- 🏎️🏁 Cars & Motorsports
 - ⌨️🖱️ Video Games & Simulations
 
 ## ⏳ Currently...
-### 🛠️ Building
-- ⏲️📝 Convenient Scripts
-- 🐧🫙 Container Images
+### 🎓 Learning
+- 🐧💉 Linux System Administration
+- 🚗🔧 Automotive Mechanics
+- 🎌🇯🇵 Japanese Language
 
 ### 🎯 Practicing
 - ⚙️🤖 Automation
 - 🏡☁️ Self-Hosting
 
-### 🎓 Learning
-- 🐧💉 Linux System Administration
-- 🚗🔧 Automotive Engineering
+### 🛠️ Building
+- ⏲️📝 Automation Scripts
+- 🐧🫙 Container Images
 
 # 💻 Tech Stack
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gn)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+## Software
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Podman](https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+
+## Languages
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python)
 
 # 📊 GitHub Stats
 ![Metrics](./assets/github-metrics.svg)
