@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/github-metrics.svg
-          user: N3WK1D
+          user: raycadle
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
