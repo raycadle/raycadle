@@ -25,11 +25,11 @@ You can usually find me infront of a computer or behind a steering wheel—somet
 # 💻 Tech Stack
 ## Software
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Podman](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 
 ## Languages
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Bash Script](https://img.shields.io/badge/Bash_Script-black?style=for-the-badge&logo=gnubash)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python)
 
 # 📊 GitHub Stats
 ![Metrics](./assets/github-metrics.svg)
