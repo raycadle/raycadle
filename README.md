@@ -1,5 +1,5 @@
 ![banner](./assets/cyberpunk-pixel-city-neon-banner.gif)
-# 👋 Yo! I'm N3WK1D!
+# 👋 Yo! I'm Ray!
 I'm a perpetual student who's always willing to learn and experience new things.
 
 ## 💫 Interests
@@ -29,6 +29,6 @@ I'm a perpetual student who's always willing to learn and experience new things.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
-N3WK1D/N3WK1D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+raycadle/raycadle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
