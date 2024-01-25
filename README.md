@@ -1,7 +1,6 @@
 ![banner](./assets/cyberpunk-pixel-city-neon-banner.gif)
 # 👋 Yo! I'm Ray!
-I'm a perpetual student who's always willing to learn something new and have new experiences.
-You can usually find me infront of a computer or behind a steering wheel—sometimes both when I'm sim-racing.
+I'm a perpetual student who's always willing to learn something new and experience new adventures. You can usually find me infront of a computer or behind a steering wheel — sometimes both when I'm sim-racing. With a sharp mind and ferocious determination for success, there are no problems in life — only solutions.
 
 ## 💫 Interests
 - 🖥️📱 Computers & Technology
