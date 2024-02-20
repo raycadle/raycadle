@@ -10,42 +10,33 @@
 <!-- About Section -->
 <details>
   <summary><b>👤 About</b></summary>
-    <p>
-     <!-- <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" /> -->
+  <p>
+    <!-- <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" /> -->
       
-<blockquote>
+  <blockquote>
 
-I'm a perpetual student who's always willing to learn something new and have new adventures.
+  I'm a passionate learner and tinkerer who's always looking to learn something new and have new adventures.
 
-With a sharp mind and ferocious determination for success, there are no problems to me — only opportunities for growth.
+  With a sharp mind and ferocious determination for success, there are no problems to me — only opportunities for growth.
 
-I have a small virtual homelab, which I'm using to learn more about system administration. 
+  I have a small virtual homelab, which I'm using to learn more about system administration.
 
-You can usually find me infront of a computer or behind a steering wheel — sometimes both when I'm sim-racing.
+  You can usually find me infront of a computer or behind a steering wheel — sometimes both when I'm sim-racing.
 
-</blockquote>
+  </blockquote>
     
-----
+  ----
   
   </p>
 
-<div class="row">
-  <div class="column">
-    <h2>❤️ Passions</h2>
-    <p>
-      - 🎓📓 Learning
-      - 🪛🛠️ Tinkering
-    </p>
-  </div>
-  <div class="column">
-    <h2>💫 Interests</h2>
-    <p>
-      - 🖥️📱 Computers & Technology
-      - 🏎️🏁 Cars & Motorsports
-      - ⌨️🖱️ Video Games & Simulators
-    </p>
-  </div>
-</div>
+## ❤️ Passions
+- 🎓📓 Learning
+- 🪛🛠️ Tinkering
+
+## 💫 Interests
+- 🖥️📱 Computers & Technology
+- 🏎️🏁 Cars & Motorsports
+- ⌨️🖱️ Video Games & Simulators
 
 ## ⏳ Currently...
 ### 🎓 Learning
@@ -85,11 +76,11 @@ You can usually find me infront of a computer or behind a steering wheel — som
 <!-- Metrics -->
 <details>
   <summary><b>📊 Metrics</b></summary>
-    <p>
+  <p>
 
-<a href="https://github.com/raycadle/raycadle/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/raycadle/raycadle/main/assets/github-metrics.svg" alt="General Stats">
-</a>
+  <a href="https://github.com/raycadle/raycadle/blob/master/METRICS.md">
+    <img  width="400" src="https://raw.githubusercontent.com/raycadle/raycadle/main/assets/metrics/summary.svg" alt="General Stats">
+  </a>
 <br /><br /><br />
 
 **[➡️ More Metrics](/METRICS.md)**
