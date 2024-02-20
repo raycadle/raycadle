@@ -10,7 +10,6 @@ on:
   schedule:
     - cron: '40 23 * * *' # Run every evening, twenty mins before midnight
   workflow_dispatch: # Or when it's manually triggered
-  push: {branches: ["main"]}
 jobs:        
   # Sponsors Card
   sponsor-metrics:
@@ -192,7 +191,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
 
   # Achievments, fake awards showing that i have no life
-  acheiment-metrics:
+  achievement-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -201,7 +200,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics/achievements.svg
-          committer_message: "📊 Updates metrics - acheivments"
+          committer_message: "📊 Updates metrics - achievements"
           committer_token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: raycadle
           base: ""
