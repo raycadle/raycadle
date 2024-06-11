@@ -14,10 +14,10 @@
 
 <div>
 
-[<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/habits.svg">](#)
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/contributions.svg">](#)
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/activity.svg">](#)
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/achievements.svg">](#)
+[<img align="left" width="50%" style="display: inline-block;" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/habits.svg">](#)
+[<img align="right" width="50%" style="display: inline-block;" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/contributions.svg">](#)
+[<img align="left" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/activity.svg">](#)
+[<img align="right" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/achievements.svg">](#)
 
 [<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/tickets.svg">](#)
 [<img align="left" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/gists.svg">][gists]
