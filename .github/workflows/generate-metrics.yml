@@ -49,7 +49,7 @@ jobs:
           base: ""
           config_timezone: America/Belize
           plugin_calendar: yes
-          plugin_calendar_limit: 10
+          plugin_calendar_limit: 3
   
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
@@ -190,7 +190,7 @@ jobs:
           plugin_languages_other: yes
           plugin_languages_sections: most-used, recently-used
 
-  # Achievments, fake awards showing that i have no life
+  # Achievements, fake awards showing that i have no life
   achievement-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -334,21 +334,21 @@ jobs:
           plugin_topics_mode: icons
 
   # RSS Feed
-  blog-post-metrics:
+  notes-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: assets/metrics/blog-posts.svg
-          committer_message: "📊 Updates metrics - blog"
+          filename: assets/metrics/notes.svg
+          committer_message: "📊 Updates metrics - notes"
           committer_token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: raycadle
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_rss: yes
-          plugin_rss_source: https://notes.aliciasykes.com/feed
+          plugin_rss_source: https://raycadle.github.io/notes/feed.xml
           plugin_rss_limit: 8
 
   lines-code-changed:
