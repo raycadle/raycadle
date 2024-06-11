@@ -14,25 +14,25 @@
 
 <div>
 
-[<img align="left" width="50%" style="display: inline-block;" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/habits.svg">](#) [<img align="right" width="50%" style="display: inline-block;" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/contributions.svg">](#)
-[<img align="left" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/activity.svg">](#)
-[<img align="right" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/achievements.svg">](#)
+[<img align="center" width="100%" style="display: inline-block;" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/habits.svg">](#) [<img align="center" width="100%" style="display: inline-block;" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/contributions.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/activity.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/achievements.svg">](#)
 
 [<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/tickets.svg">](#)
-[<img align="left" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/gists.svg">][gists]
-[<img align="right" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/repositories.svg">][repositories]
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/gists.svg">][gists]
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/repositories.svg">][repositories]
 
-[<img align="center" width="900" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/stargazers.svg">](#)
-[<img align="center" width="900" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/reactions.svg">](#)
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/notable.svg">](#)
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/sponsors.svg">][sponsors]
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/discussions.svg">](#)
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/people.svg">][people]
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/stargazers.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/reactions.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/notable.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/sponsors.svg">][sponsors]
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/discussions.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/people.svg">][people]
 
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/notes.svg">][notes]
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/topics.svg">](#)
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/languages.svg">](#)
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/starlists.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/notes.svg">][notes]
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/topics.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/languages.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/starlists.svg">](#)
 
 <!-- Links within GitHub -->
 [gists]: https://gist.github.com/raycadle "GitHub Gists - @raycadle"
