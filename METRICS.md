@@ -19,11 +19,15 @@
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/activity.svg">](#)
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/achievements.svg">](#)
 
+* * *
+
 ### Contributions
 
-[<img align="center" width="900" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/tickets.svg">](#)
-[<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/gists.svg">][gists]
-[<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/repositories.svg">][repositories]
+[<img align="center" width="100%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/tickets.svg">](#)
+[<img align="left" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/gists.svg">][gists]
+[<img align="right" width="50%" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/repositories.svg">][repositories]
+
+* * *
 
 ### Interactions
 [<img align="center" width="900" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/stargazers.svg">](#)
@@ -32,6 +36,8 @@
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/sponsors.svg">][sponsors]
 [<img align="left" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/discussions.svg">](#)
 [<img align="right" width="450" alt="🦑" src="https://raw.githubusercontent.com/raycadle/raycadle/master/assets/metrics/people.svg">][people]
+
+* * *
 
 ### Misc
 
