@@ -49,7 +49,7 @@ jobs:
           base: ""
           config_timezone: America/Belize
           plugin_calendar: yes
-          plugin_calendar_limit: 3
+          plugin_calendar_limit: 2
   
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
