@@ -5,7 +5,10 @@
 </p>
 
 <!-- Outer collapsible -->  
-<details open>
+<details>
+   <summary><b><i>Click for more!</i></b></summary>
+<br>
+<details>
    <summary><b>👤 About Me</b></summary>
   <p>
     <!-- <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" /> -->
@@ -51,6 +54,8 @@
 </details>
 
   ----
+
+</details>
 
 <!-- Tech Stack -->  
 <details>
