@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.14mb of code in 172 edited files across 169 commits</small>
+                <small>estimation from 1.14mb of code in 175 edited files across 172 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="1.3694510987614026" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="1.3694510987614026" y="0" width="458.6305489012386" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="1.3688453664816493" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="1.3688453664816493" y="0" width="458.63115463351835" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,7 +49,7 @@
                                 Other
                             </div>
                             <small>
-                                <div>3.42k lines</div>
+                                <div>3.43k lines</div>
                                 <div>1.13 MB</div>
                             </small>
                         </div>
@@ -58,7 +58,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 971kb of code in 188 edited files across 252 commits over last 30 days</small>
+                <small>estimation from 1.04mb of code in 194 edited files across 259 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
