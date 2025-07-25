@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.51mb of code in 342 edited files across 339 commits</small>
+                <small>estimation from 2.55mb of code in 348 edited files across 345 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0.6221679714432" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="0.6221679714432" y="0" width="459.37783202855684" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0.6131890961818673" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0.6131890961818673" y="0" width="459.3868109038181" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,8 +49,8 @@
                                 Other
                             </div>
                             <small>
-                                <div>6.13k lines</div>
-                                <div>2.50 MB</div>
+                                <div>6.25k lines</div>
+                                <div>2.54 MB</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 30 days</small>
+                  over last 29 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
