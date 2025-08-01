@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.70mb of code in 384 edited files across 381 commits</small>
+                <small>estimation from 3.74mb of code in 389 edited files across 386 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0.4213193023482413" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="0.4213193023482413" y="0" width="459.57868069765175" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0.41755308804575103" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0.41755308804575103" y="0" width="459.58244691195426" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,8 +49,8 @@
                                 Other
                             </div>
                             <small>
-                                <div>6.98k lines</div>
-                                <div>3.69 MB</div>
+                                <div>7.08k lines</div>
+                                <div>3.72 MB</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 29 days</small>
+                  over last 30 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
