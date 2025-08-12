@@ -23,7 +23,7 @@
                                 </svg>
                                 📱 Android
                             </h2>
-                            <div class="count">2 repositories</div>
+                            <div class="count">3 repositories</div>
                             <div class="description">A collection of Android tools.</div>
                             <div class="languages">
                                 <div class="row">
@@ -32,7 +32,8 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="420" height="8" fill="#a97bff"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="280" height="8" fill="#a97bff"/>
+                                        <rect mask="url(#languages-bar)" x="280" y="0" width="140" height="8" fill="#ff3e00"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -45,12 +46,24 @@
                                                 Kotlin
                                             </div>
                                             <small>
-                                                <div>100%</div>
+                                                <div>66.67%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
                                     </section>
                                     <section>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Svelte
+                                            </div>
+                                            <small>
+                                                <div>33.33%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
                                     </section>
                                 </div>
                             </div>
