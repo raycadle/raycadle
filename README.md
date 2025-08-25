@@ -18,7 +18,7 @@
   I'm a passionate learner and car enthusiast who's always looking for a new adventure.
   I believe that in life there are no problems — only opportunities for growth.
 
-  I can usually be found in front of a computer screen or behind a steering wheel — sometimes both when I'm sim-racing.
+  I can usually be found behind a computer screen or a steering wheel — sometimes both when I'm sim-racing.
   
   </blockquote>
   </p>
