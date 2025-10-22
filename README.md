@@ -1,3 +1,5 @@
+<h1 align="center">✌️ Yo! I'm Ray!</h1>
+
 <p align="center">
   <img width="100%" height="100%" src="./assets/cyberpunk-pixel-city-neon-banner.gif">
 </p>
@@ -6,8 +8,6 @@
 <details>
   <summary><b><i>Click for more!</i></b></summary>
   <br>
-
-  <h1 align="center">✌️ Yo! I'm Ray!</h1>
 
   <!-- About Section -->
   <details>
