@@ -1,7 +1,7 @@
 <h1 align="center">✌️ Yo, I'm Ray!</h1>
 <h2 align="center">Learner • Car Nerd • Breaker of Things</h2>
 <p align="center">
-  <img width="100%" height="100%" src="./assets/cyberpunk-pixel-city-neon-banner.gif">
+  <img width="100%" height="100%" src="./assets/ae86.gif">
 </p>
 
 <!-- Outer collapsible -->  
